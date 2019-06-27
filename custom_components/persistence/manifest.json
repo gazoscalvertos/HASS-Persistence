@@ -1,0 +1,8 @@
+{
+  "domain": "persistence",
+  "name": "Persistence Sensor",
+  "documentation": "https://github.com/gazoscalvertos/HASS-Persistence",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
